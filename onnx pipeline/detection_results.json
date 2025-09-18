@@ -1,0 +1,860 @@
+[
+    {
+        "image_name": "B-117-_jpg.rf.84940e07e9b863fe7f33aa52a25076ba.jpg",
+        "timestamp": "2025-09-18T23:25:33.248600",
+        "gps": {
+            "lat": 28.667203,
+            "lon": 77.261477
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.8672810792922974,
+                "box": {
+                    "x1": 6.3900146484375,
+                    "y1": -0.3946533203125,
+                    "x2": 633.4931640625,
+                    "y2": 631.731201171875
+                }
+            }
+        ],
+        "fps": 3.72
+    },
+    {
+        "image_name": "B-120-_jpg.rf.d4cc970131b14059bea0d5478026e38e.jpg",
+        "timestamp": "2025-09-18T23:25:40.919652",
+        "gps": {
+            "lat": 28.667771,
+            "lon": 77.238172
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.6033468842506409,
+                "box": {
+                    "x1": 8.111328125,
+                    "y1": 72.04864501953125,
+                    "x2": 622.7713623046875,
+                    "y2": 637.3347778320312
+                }
+            }
+        ],
+        "fps": 3.99
+    },
+    {
+        "image_name": "B-142-_jpg.rf.8879ccab12b293799ca5b123dfc5766a.jpg",
+        "timestamp": "2025-09-18T23:25:48.687097",
+        "gps": {
+            "lat": 28.634766,
+            "lon": 77.209793
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.9462043642997742,
+                "box": {
+                    "x1": 0.3680419921875,
+                    "y1": -0.3587646484375,
+                    "x2": 637.8724365234375,
+                    "y2": 639.7217407226562
+                }
+            }
+        ],
+        "fps": 3.97
+    },
+    {
+        "image_name": "B-148-_jpg.rf.b689ed045262712893b4cd51a70f2fa7.jpg",
+        "timestamp": "2025-09-18T23:25:56.487357",
+        "gps": {
+            "lat": 28.644438,
+            "lon": 77.260139
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.7987766265869141,
+                "box": {
+                    "x1": 3.46173095703125,
+                    "y1": 3.5794677734375,
+                    "x2": 638.1588134765625,
+                    "y2": 639.1502685546875
+                }
+            }
+        ],
+        "fps": 3.43
+    },
+    {
+        "image_name": "B-151-_jpg.rf.d2149d23ce7ca1192be6b1ccb76efeb5.jpg",
+        "timestamp": "2025-09-18T23:26:04.132879",
+        "gps": {
+            "lat": 28.694805,
+            "lon": 77.231635
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.9019727110862732,
+                "box": {
+                    "x1": 5.31036376953125,
+                    "y1": 16.7913818359375,
+                    "x2": 639.8010864257812,
+                    "y2": 640.229248046875
+                }
+            }
+        ],
+        "fps": 3.59
+    },
+    {
+        "image_name": "B-162-_jpg.rf.8762ea309477e0c89e1fef7fd5ebbbb8.jpg",
+        "timestamp": "2025-09-18T23:26:12.006098",
+        "gps": {
+            "lat": 28.66114,
+            "lon": 77.28486
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.25
+    },
+    {
+        "image_name": "B-17-_jpg.rf.4efbe275d6853b96e36505876670b29d.jpg",
+        "timestamp": "2025-09-18T23:26:19.798349",
+        "gps": {
+            "lat": 28.626254,
+            "lon": 77.215668
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.6877727508544922,
+                "box": {
+                    "x1": 17.9757080078125,
+                    "y1": 6.15264892578125,
+                    "x2": 635.22802734375,
+                    "y2": 624.4063720703125
+                }
+            }
+        ],
+        "fps": 4.02
+    },
+    {
+        "image_name": "B-18-_jpg.rf.7949068b1ff87872ab3534c8c99acc6b.jpg",
+        "timestamp": "2025-09-18T23:26:27.513255",
+        "gps": {
+            "lat": 28.687033,
+            "lon": 77.287666
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.79
+    },
+    {
+        "image_name": "B-181-_jpg.rf.0be6ac7eef502bd8a9a4864afbb22537.jpg",
+        "timestamp": "2025-09-18T23:26:35.290570",
+        "gps": {
+            "lat": 28.681396,
+            "lon": 77.2246
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.9270206093788147,
+                "box": {
+                    "x1": -1.2811279296875,
+                    "y1": -0.11328125,
+                    "x2": 639.291748046875,
+                    "y2": 639.7342529296875
+                }
+            }
+        ],
+        "fps": 3.38
+    },
+    {
+        "image_name": "B-44-_jpg.rf.98aeea3f02fe6d0b19bfa82117300301.jpg",
+        "timestamp": "2025-09-18T23:26:43.102192",
+        "gps": {
+            "lat": 28.66087,
+            "lon": 77.211868
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.7574244141578674,
+                "box": {
+                    "x1": 1.1351318359375,
+                    "y1": 8.71551513671875,
+                    "x2": 640.15966796875,
+                    "y2": 637.98583984375
+                }
+            }
+        ],
+        "fps": 3.56
+    },
+    {
+        "image_name": "B-48-_jpg.rf.1928441425468307331065531069e864.jpg",
+        "timestamp": "2025-09-18T23:26:50.854901",
+        "gps": {
+            "lat": 28.61505,
+            "lon": 77.27395
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.75
+    },
+    {
+        "image_name": "B-5-_jpg.rf.f9d8d4c891c3da85dfb331363f7af925.jpg",
+        "timestamp": "2025-09-18T23:26:58.569570",
+        "gps": {
+            "lat": 28.652855,
+            "lon": 77.226955
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.9182592630386353,
+                "box": {
+                    "x1": -0.28729248046875,
+                    "y1": 0.117919921875,
+                    "x2": 638.6526489257812,
+                    "y2": 622.595458984375
+                }
+            }
+        ],
+        "fps": 3.9
+    },
+    {
+        "image_name": "B-53-_jpg.rf.6e7e11af9fb318aea8df84c5a57cb7c0.jpg",
+        "timestamp": "2025-09-18T23:27:06.382293",
+        "gps": {
+            "lat": 28.682236,
+            "lon": 77.251225
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.8968514204025269,
+                "box": {
+                    "x1": 2.38934326171875,
+                    "y1": 37.80316162109375,
+                    "x2": 638.8593139648438,
+                    "y2": 640.1583862304688
+                }
+            }
+        ],
+        "fps": 3.41
+    },
+    {
+        "image_name": "B-68-_jpg.rf.9938a64cabae0f102050be96468f2ef9.jpg",
+        "timestamp": "2025-09-18T23:27:14.156654",
+        "gps": {
+            "lat": 28.617889,
+            "lon": 77.222005
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.6427831649780273,
+                "box": {
+                    "x1": 3.5096435546875,
+                    "y1": 66.4320068359375,
+                    "x2": 618.19677734375,
+                    "y2": 639.1363525390625
+                }
+            }
+        ],
+        "fps": 3.6
+    },
+    {
+        "image_name": "B-87-_jpg.rf.35f1d2e5cab43f3386ae31d7acdc949f.jpg",
+        "timestamp": "2025-09-18T23:27:21.966050",
+        "gps": {
+            "lat": 28.622272,
+            "lon": 77.253771
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.59
+    },
+    {
+        "image_name": "C-112-_jpg.rf.b8b0f6026427ee54a74f920f0f5f3925.jpg",
+        "timestamp": "2025-09-18T23:27:29.696411",
+        "gps": {
+            "lat": 28.640835,
+            "lon": 77.299685
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.8859765529632568,
+                "box": {
+                    "x1": 0.31158447265625,
+                    "y1": 0.40771484375,
+                    "x2": 639.8931884765625,
+                    "y2": 640.0794677734375
+                }
+            }
+        ],
+        "fps": 3.35
+    },
+    {
+        "image_name": "C-119-_jpg.rf.c6bc97c9c7320451fe91507a90e51893.jpg",
+        "timestamp": "2025-09-18T23:27:37.528607",
+        "gps": {
+            "lat": 28.693349,
+            "lon": 77.265799
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.8011900186538696,
+                "box": {
+                    "x1": 2.5513916015625,
+                    "y1": 68.170654296875,
+                    "x2": 640.1171875,
+                    "y2": 486.70025634765625
+                }
+            }
+        ],
+        "fps": 3.53
+    },
+    {
+        "image_name": "C-12-_jpg.rf.deb73ecae273439477b7c83da4b7ea27.jpg",
+        "timestamp": "2025-09-18T23:27:45.386730",
+        "gps": {
+            "lat": 28.619398,
+            "lon": 77.211865
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.9237720370292664,
+                "box": {
+                    "x1": 0.238037109375,
+                    "y1": -0.427734375,
+                    "x2": 641.159423828125,
+                    "y2": 639.538330078125
+                }
+            }
+        ],
+        "fps": 3.19
+    },
+    {
+        "image_name": "C-134-_jpg.rf.92ee4dcc864213bd457521aa71b64b40.jpg",
+        "timestamp": "2025-09-18T23:27:53.106529",
+        "gps": {
+            "lat": 28.683278,
+            "lon": 77.274747
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.54
+    },
+    {
+        "image_name": "C-140-_jpg.rf.f2dd2451ea1c7ab04c10925e7f59c31f.jpg",
+        "timestamp": "2025-09-18T23:28:00.912465",
+        "gps": {
+            "lat": 28.673575,
+            "lon": 77.29905
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.7520164251327515,
+                "box": {
+                    "x1": 46.95306396484375,
+                    "y1": 0.7908935546875,
+                    "x2": 640.3002319335938,
+                    "y2": 639.9393310546875
+                }
+            }
+        ],
+        "fps": 3.52
+    },
+    {
+        "image_name": "C-145-_jpg.rf.b9960cb808cbcdba0e80a543a6cd9a1f.jpg",
+        "timestamp": "2025-09-18T23:28:08.680261",
+        "gps": {
+            "lat": 28.697858,
+            "lon": 77.224946
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.6404539346694946,
+                "box": {
+                    "x1": 5.883544921875,
+                    "y1": -0.769775390625,
+                    "x2": 638.5369873046875,
+                    "y2": 638.8548583984375
+                }
+            }
+        ],
+        "fps": 3.56
+    },
+    {
+        "image_name": "C-163-_jpg.rf.653e738caddbebd76bb529b60c178127.jpg",
+        "timestamp": "2025-09-18T23:28:16.558209",
+        "gps": {
+            "lat": 28.602074,
+            "lon": 77.261644
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.8838108777999878,
+                "box": {
+                    "x1": 0.49127197265625,
+                    "y1": -0.829833984375,
+                    "x2": 634.9031372070312,
+                    "y2": 639.2845458984375
+                }
+            }
+        ],
+        "fps": 3.02
+    },
+    {
+        "image_name": "C-170-_jpg.rf.17ba5de1c220d07b54870a2c0f915d12.jpg",
+        "timestamp": "2025-09-18T23:28:24.382309",
+        "gps": {
+            "lat": 28.642676,
+            "lon": 77.210198
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.7974916696548462,
+                "box": {
+                    "x1": 0.0081787109375,
+                    "y1": 1.60595703125,
+                    "x2": 636.5741577148438,
+                    "y2": 626.8309326171875
+                }
+            }
+        ],
+        "fps": 3.53
+    },
+    {
+        "image_name": "C-176-_jpg.rf.67ec02fd8ab367087167fba85c13d820.jpg",
+        "timestamp": "2025-09-18T23:28:32.114469",
+        "gps": {
+            "lat": 28.659885,
+            "lon": 77.221437
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.8682400584220886,
+                "box": {
+                    "x1": 0.7403564453125,
+                    "y1": 3.1773681640625,
+                    "x2": 641.5589599609375,
+                    "y2": 638.6680908203125
+                }
+            }
+        ],
+        "fps": 3.52
+    },
+    {
+        "image_name": "C-179-_jpg.rf.b887c67d9f29af034a48c49828e9d975.jpg",
+        "timestamp": "2025-09-18T23:28:39.895320",
+        "gps": {
+            "lat": 28.683931,
+            "lon": 77.276553
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.8930084705352783,
+                "box": {
+                    "x1": 0.89031982421875,
+                    "y1": 0.10833740234375,
+                    "x2": 639.8286743164062,
+                    "y2": 639.126708984375
+                }
+            }
+        ],
+        "fps": 3.49
+    },
+    {
+        "image_name": "C-26-_jpg.rf.ec4ae66313939af2262761320916aeb5.jpg",
+        "timestamp": "2025-09-18T23:28:47.734099",
+        "gps": {
+            "lat": 28.647911,
+            "lon": 77.226609
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.43
+    },
+    {
+        "image_name": "C-27-_jpg.rf.c7e8c4e087184f40110ec7f53e7b735e.jpg",
+        "timestamp": "2025-09-18T23:28:55.499541",
+        "gps": {
+            "lat": 28.654063,
+            "lon": 77.2859
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.6
+    },
+    {
+        "image_name": "C-3-_jpg.rf.9668f30fcd99a9d3395ee302aa23998f.jpg",
+        "timestamp": "2025-09-18T23:29:03.320343",
+        "gps": {
+            "lat": 28.686604,
+            "lon": 77.228759
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.7318549156188965,
+                "box": {
+                    "x1": -1.5531005859375,
+                    "y1": 2.26263427734375,
+                    "x2": 640.502685546875,
+                    "y2": 637.4182739257812
+                }
+            }
+        ],
+        "fps": 3.34
+    },
+    {
+        "image_name": "C-33-_jpg.rf.12e98ef02df28774888db25ea38d50ac.jpg",
+        "timestamp": "2025-09-18T23:29:11.104772",
+        "gps": {
+            "lat": 28.607162,
+            "lon": 77.239062
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.9458993673324585,
+                "box": {
+                    "x1": 0.25103759765625,
+                    "y1": -1.0074462890625,
+                    "x2": 640.3097534179688,
+                    "y2": 640.1324462890625
+                }
+            }
+        ],
+        "fps": 3.51
+    },
+    {
+        "image_name": "C-39-_jpg.rf.e10707d51b1a23e61a3af175dfb4c162.jpg",
+        "timestamp": "2025-09-18T23:29:18.830432",
+        "gps": {
+            "lat": 28.631191,
+            "lon": 77.250643
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.8144120573997498,
+                "box": {
+                    "x1": 1.4261474609375,
+                    "y1": -1.261474609375,
+                    "x2": 637.3167724609375,
+                    "y2": 639.3746337890625
+                }
+            }
+        ],
+        "fps": 3.05
+    },
+    {
+        "image_name": "C-47-_jpg.rf.75fdb4348c98e8ea9268f43e8e88a5c3.jpg",
+        "timestamp": "2025-09-18T23:29:26.542258",
+        "gps": {
+            "lat": 28.682759,
+            "lon": 77.261028
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.864277184009552,
+                "box": {
+                    "x1": -0.8426513671875,
+                    "y1": 4.0125732421875,
+                    "x2": 639.701416015625,
+                    "y2": 608.4571533203125
+                }
+            }
+        ],
+        "fps": 3.42
+    },
+    {
+        "image_name": "C-49-_jpg.rf.96846820ffb415d5c7aa2e3a14b51221.jpg",
+        "timestamp": "2025-09-18T23:29:34.182441",
+        "gps": {
+            "lat": 28.692424,
+            "lon": 77.211457
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.48
+    },
+    {
+        "image_name": "C-51-_jpg.rf.09f3a2f01bb725778c50912ccd9b34cc.jpg",
+        "timestamp": "2025-09-18T23:29:41.953367",
+        "gps": {
+            "lat": 28.635846,
+            "lon": 77.220135
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.8722125291824341,
+                "box": {
+                    "x1": -1.57220458984375,
+                    "y1": -1.0535888671875,
+                    "x2": 640.8096313476562,
+                    "y2": 629.2620849609375
+                }
+            }
+        ],
+        "fps": 3.48
+    },
+    {
+        "image_name": "C-82-_jpg.rf.13bb8c477687d6de8287c06b6a58b12a.jpg",
+        "timestamp": "2025-09-18T23:29:49.806205",
+        "gps": {
+            "lat": 28.692617,
+            "lon": 77.270925
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.54
+    },
+    {
+        "image_name": "C-92-_jpg.rf.c27e67900daeac48334b58c5764aa674.jpg",
+        "timestamp": "2025-09-18T23:29:57.692023",
+        "gps": {
+            "lat": 28.697378,
+            "lon": 77.211567
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.42
+    },
+    {
+        "image_name": "C-97-_jpg.rf.f365b2e19d17fa68bbb7b0d109eca5d3.jpg",
+        "timestamp": "2025-09-18T23:30:05.455952",
+        "gps": {
+            "lat": 28.693869,
+            "lon": 77.25352
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.8140807151794434,
+                "box": {
+                    "x1": -1.239013671875,
+                    "y1": 2.3875732421875,
+                    "x2": 639.6771240234375,
+                    "y2": 559.93505859375
+                }
+            }
+        ],
+        "fps": 3.55
+    },
+    {
+        "image_name": "H-107-_jpg.rf.8c4c86f6b4ed073b9d7995ce6fb99aa8.jpg",
+        "timestamp": "2025-09-18T23:30:13.163249",
+        "gps": {
+            "lat": 28.682431,
+            "lon": 77.246429
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.7619542479515076,
+                "box": {
+                    "x1": -0.9957275390625,
+                    "y1": 0.45709228515625,
+                    "x2": 640.4508056640625,
+                    "y2": 546.412841796875
+                }
+            }
+        ],
+        "fps": 3.51
+    },
+    {
+        "image_name": "H-120-_jpg.rf.a99d7627345c1cbccfb1483f037dcedd.jpg",
+        "timestamp": "2025-09-18T23:30:20.970355",
+        "gps": {
+            "lat": 28.646878,
+            "lon": 77.23734
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.54
+    },
+    {
+        "image_name": "H-153-_jpg.rf.b0173156e843530c83cd2e90d093cc14.jpg",
+        "timestamp": "2025-09-18T23:30:28.674270",
+        "gps": {
+            "lat": 28.665331,
+            "lon": 77.207877
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.58
+    },
+    {
+        "image_name": "H-158-_jpg.rf.b70a30964395f4fcc70fe10a3e27f171.jpg",
+        "timestamp": "2025-09-18T23:30:36.463528",
+        "gps": {
+            "lat": 28.638572,
+            "lon": 77.258954
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.7560102939605713,
+                "box": {
+                    "x1": 0.4158935546875,
+                    "y1": 3.6126708984375,
+                    "x2": 641.680419921875,
+                    "y2": 636.310546875
+                }
+            }
+        ],
+        "fps": 3.57
+    },
+    {
+        "image_name": "H-161-_jpg.rf.dd0559f5935d3d9971ce74f92b9d3c8f.jpg",
+        "timestamp": "2025-09-18T23:30:44.161545",
+        "gps": {
+            "lat": 28.641752,
+            "lon": 77.255724
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.8514143228530884,
+                "box": {
+                    "x1": -0.4610595703125,
+                    "y1": 13.87481689453125,
+                    "x2": 640.6258544921875,
+                    "y2": 639.7506713867188
+                }
+            }
+        ],
+        "fps": 3.63
+    },
+    {
+        "image_name": "H-180-_jpg.rf.779286f2429ebd4c0463b9e9dcfb37cc.jpg",
+        "timestamp": "2025-09-18T23:30:51.775194",
+        "gps": {
+            "lat": 28.697478,
+            "lon": 77.295903
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.7148423194885254,
+                "box": {
+                    "x1": 0.37640380859375,
+                    "y1": 169.63140869140625,
+                    "x2": 637.413818359375,
+                    "y2": 621.61669921875
+                }
+            }
+        ],
+        "fps": 3.53
+    },
+    {
+        "image_name": "H-184-_jpg.rf.fcbfdb79a84a46023c15b692b0e82c8b.jpg",
+        "timestamp": "2025-09-18T23:30:59.547054",
+        "gps": {
+            "lat": 28.696631,
+            "lon": 77.29003
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.7777795791625977,
+                "box": {
+                    "x1": -0.6934814453125,
+                    "y1": 4.7220458984375,
+                    "x2": 640.194091796875,
+                    "y2": 635.0777587890625
+                }
+            }
+        ],
+        "fps": 3.45
+    },
+    {
+        "image_name": "H-189-_jpg.rf.e3e43cd0a3a211022ebec09392cfa4ff.jpg",
+        "timestamp": "2025-09-18T23:31:07.272289",
+        "gps": {
+            "lat": 28.634402,
+            "lon": 77.245555
+        },
+        "status": "defective",
+        "detections": [
+            {
+                "label": "defective",
+                "confidence": 0.7077659964561462,
+                "box": {
+                    "x1": 0.14459228515625,
+                    "y1": 96.28839111328125,
+                    "x2": 639.5410766601562,
+                    "y2": 635.4833374023438
+                }
+            }
+        ],
+        "fps": 3.54
+    },
+    {
+        "image_name": "H-38-_jpg.rf.50218f60b5c6c0e30286ccfe2b326949.jpg",
+        "timestamp": "2025-09-18T23:31:14.901390",
+        "gps": {
+            "lat": 28.623998,
+            "lon": 77.229097
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.69
+    },
+    {
+        "image_name": "H-40-_jpg.rf.0d27084fbe705614dd803760c75e9ac1.jpg",
+        "timestamp": "2025-09-18T23:31:22.566078",
+        "gps": {
+            "lat": 28.652314,
+            "lon": 77.211515
+        },
+        "status": "non-defective",
+        "detections": [],
+        "fps": 3.56
+    }
+]
